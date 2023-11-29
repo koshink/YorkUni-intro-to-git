@@ -7,7 +7,4 @@ preserve each version so we can see the changes over time,
 like this one!
 extra change
 
-incorrect change
-
-
 This contains a typo that we'll fix later  
